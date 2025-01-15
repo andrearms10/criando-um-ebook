@@ -1,0 +1,20 @@
+::: Prompt para criar o título
+
+crie um título de e-book sobre o tema de fotografia, nicho fotografia iphone, subnicho para usuários não profissionais, o título deve ser épico e curto e tenha uma temática que desperte interesse, curiosidade no assunto. Liste 5 variações de título.
+
+
+
+::: Prompt para criar a imagem
+foto do iPhone e na tela uma imagem de pôr-do-sol extraordinário da cidade de New York, tendo como fundo a cidade de new york.
+
+
+
+
+::: Prompt para criar o conteúdo do ebook
+
+Faça um texto para ebook, com foco em fotografia para iphone, para iniciantes
+
+{REGRAS}
+> Explique sempre de maneira simples
+> Deixe o texto enxuto 
+> Sempre deixe um título sugestivo por tópico
